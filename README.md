@@ -5,5 +5,6 @@ Assignments
 * https://github.com/2025-spring-csuf-puhp-cpsc-351/homework-1-git-practice-kiraiyu
 * https://github.com/2025-spring-csuf-puhp-cpsc-351/homework-2-hello-world-kiraiyu
 * https://github.com/2025-spring-csuf-puhp-cpsc-351/homework-3-fork-a-process-kiraiyu
-* 
+* https://github.com/2025-spring-csuf-puhp-cpsc-351/homework-4-command-line-interpreter-kiraiyu
+  
 
